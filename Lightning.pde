@@ -14,7 +14,7 @@ void setup()
   stroke(255,255,0);
   frameRate(25);
   
-  img = loadImage("data/Profile_-_Lightning_McQueen.jpg");
+  img = loadImage("Profile_-_Lightning_McQueen.jpg");
 }
 void draw()
 {
